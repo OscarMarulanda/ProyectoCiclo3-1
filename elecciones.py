@@ -7,7 +7,7 @@ Original file is located at
     https://colab.research.google.com/drive/1CYR0UhlYnedS4tV9D4m8luZGaP_BH5ld
 """
 
-def candidatos(lista):
+def candidatos(lista): OHHO
   a=[]
   for i in lista:
     if i not in a:
